@@ -25,9 +25,9 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [nitishjnv2323@gmail.com](mailto:your.email@example.com)
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🛠 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🛠 GitHub: [github.com/kumarnitish02](https://github.com/kumarnitish02)
 
 ---
 
