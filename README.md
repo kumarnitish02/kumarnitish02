@@ -26,7 +26,7 @@
 ## 📫 Get in Touch
 
 - 📧 Email: [nitishjnv2323@gmail.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+-   <!-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)   ->
 - 🛠 GitHub: [github.com/kumarnitish02](https://github.com/kumarnitish02)
 
 ---
