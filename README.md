@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitish Kumar
 
-<!--
-**kumarnitish02/kumarnitish02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a B.Tech Computer Science Engineering student at **Lamrin Tech Skills University**, Ropar (Punjab).  
+📍 I'm originally from **Palamu, Jharkhand**, and currently in my **2nd semester**.  
+🔐 I'm passionate about **Cybersecurity**, ethical hacking, and system security.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I'm currently exploring the world of **Cybersecurity**, OSINT, and vulnerability analysis.
+- 🧠 I love building tools and automating boring stuff with **Python**.
+- 💡 I believe in learning by doing — always working on mini-projects and scripts.
+- 📚 I'm actively expanding my knowledge by diving into **Capture The Flag (CTF)** challenges and online platforms like **TryHackMe** and **Hack The Box**.
+
+## 🧰 Tools & Technologies
+
+- 💻 Languages: `Python`, `C`, `C++`
+- 🛠 Tools: `Git`, `GitHub`, `Linux (basic)`, `VS Code`
+- 🔒 Interests: `Cybersecurity`, `Ethical Hacking`, `Bug Hunting`, `Web Security`, `Scripting`
+
+## 🧪 Projects
+
+- 🔍 **Git Repository Exposure Scanner** – Scan GitHub repos for sensitive files like `.env`, `.gitignore`, etc.
+- 🌐 **Web Scraper Tool** – Extracted data from websites using BeautifulSoup.
+- 📍 **Geo-Location Tracker** – Tracked IP location via public APIs in Python.
+
+## 📫 Get in Touch
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🛠 GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+> ⚡ "Converting knowledge into action — one script at a time!"
+
